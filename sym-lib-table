@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "pico_light_meter")(type "KiCad")(uri "${KIPRJMOD}/pico_light_meter.kicad_sym")(options "")(descr ""))
+)
