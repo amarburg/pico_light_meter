@@ -2438,6 +2438,16 @@
 	)
 	(wire
 		(pts
+			(xy 266.7 95.25) (xy 266.7 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "050c920b-cb90-4f4e-b829-5b58df5269b4")
+	)
+	(wire
+		(pts
 			(xy 243.84 77.47) (xy 243.84 78.74)
 		)
 		(stroke
@@ -2548,6 +2558,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 91.44) (xy 261.62 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f781635-3de0-446e-a527-dfe85e109e72")
+	)
+	(wire
+		(pts
 			(xy 154.94 123.19) (xy 170.18 123.19)
 		)
 		(stroke
@@ -2615,16 +2635,6 @@
 			(type default)
 		)
 		(uuid "4b3cf42f-28f2-48da-8499-378c26f14e72")
-	)
-	(wire
-		(pts
-			(xy 256.54 95.25) (xy 278.13 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d9d9443-36ac-4537-91ed-c5ea494cc1be")
 	)
 	(wire
 		(pts
@@ -2828,6 +2838,16 @@
 	)
 	(wire
 		(pts
+			(xy 278.13 95.25) (xy 266.7 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "944960f5-6028-433a-a84f-21685730dfce")
+	)
+	(wire
+		(pts
 			(xy 110.49 46.99) (xy 130.81 46.99)
 		)
 		(stroke
@@ -2928,6 +2948,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 95.25) (xy 264.16 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4607c0e-a744-46bc-94a7-479ac8416dc6")
+	)
+	(wire
+		(pts
 			(xy 130.81 80.01) (xy 110.49 80.01)
 		)
 		(stroke
@@ -2988,6 +3018,16 @@
 	)
 	(wire
 		(pts
+			(xy 266.7 91.44) (xy 261.62 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb7739a7-9f1b-49e7-8554-042a748673cb")
+	)
+	(wire
+		(pts
 			(xy 66.04 111.76) (xy 66.04 114.3)
 		)
 		(stroke
@@ -2998,6 +3038,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 92.71) (xy 256.54 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be4c47a4-0c24-46ac-bb19-5bfeca689d2b")
+	)
+	(wire
+		(pts
 			(xy 212.09 38.1) (xy 222.25 38.1)
 		)
 		(stroke
@@ -3005,6 +3055,16 @@
 			(type default)
 		)
 		(uuid "c0ba7c40-cf05-4104-86f7-3d32fe87f340")
+	)
+	(wire
+		(pts
+			(xy 264.16 92.71) (xy 278.13 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c39d701e-c541-44d3-909a-1864a7d08971")
 	)
 	(wire
 		(pts
@@ -3025,6 +3085,16 @@
 			(type default)
 		)
 		(uuid "cc58ed27-e718-4cec-850b-0ca3b529bca2")
+	)
+	(wire
+		(pts
+			(xy 256.54 95.25) (xy 264.16 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd768736-9f33-4152-bd1f-7ffb6c96d569")
 	)
 	(wire
 		(pts
@@ -3055,16 +3125,6 @@
 			(type default)
 		)
 		(uuid "d19a1e4d-ddf0-4ad5-95f6-254db821238b")
-	)
-	(wire
-		(pts
-			(xy 256.54 92.71) (xy 278.13 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1c69175-4551-43a8-9cb1-bc691f2a31c7")
 	)
 	(wire
 		(pts
@@ -3317,7 +3377,7 @@
 		(uuid "0bdb3f34-0c78-4c4e-a5ea-2cec343f7a0c")
 	)
 	(label "IPS_RESET"
-		(at 261.62 107.95 0)
+		(at 262.89 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3467,7 +3527,7 @@
 		(uuid "5fe0757f-d168-42c2-aabc-b1e8b394bb5c")
 	)
 	(label "IPS_CS"
-		(at 168.91 74.93 0)
+		(at 168.91 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3517,7 +3577,7 @@
 		(uuid "77672186-560b-4dc0-8183-d055a2bfa4d9")
 	)
 	(label "SW3"
-		(at 267.97 97.79 0)
+		(at 267.97 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3587,7 +3647,7 @@
 		(uuid "9f156474-6108-48e3-b4f6-114faaf9839e")
 	)
 	(label "IPS_DC"
-		(at 168.91 72.39 0)
+		(at 168.91 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3607,7 +3667,7 @@
 		(uuid "a48bfbe6-9b87-443a-b707-52075b35316a")
 	)
 	(label "SW5"
-		(at 267.97 105.41 0)
+		(at 267.97 110.49 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3627,7 +3687,7 @@
 		(uuid "a87b6193-1296-431a-9884-0be1d549e509")
 	)
 	(label "IPS_BACKLIGHT"
-		(at 261.62 110.49 0)
+		(at 262.89 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3687,7 +3747,7 @@
 		(uuid "c8528cd7-4183-434e-8043-b6cad5bdba28")
 	)
 	(label "SW2"
-		(at 267.97 102.87 0)
+		(at 267.97 107.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3807,7 +3867,7 @@
 		(uuid "fbacfc90-903a-417e-a32c-dda17b47ae56")
 	)
 	(label "SW4"
-		(at 267.97 100.33 0)
+		(at 267.97 105.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4839,7 +4899,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "pico_light_meter:adafruit_2.0_IPS_Display"
+		(property "Footprint" "pico_light_meter:adafruit_2.0_IPS_Display_minimal"
 			(at 72.39 113.03 0)
 			(effects
 				(font
